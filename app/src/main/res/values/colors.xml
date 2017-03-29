@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="color_white">#ffffffff</color>
+    <color name="color_dark_grey">#ff3e4447</color>
+    <color name="color_green">#ff00ff00</color>
+    <!-- For Frame EditText -->
+    <color name="frame_default_color">#ff969696</color>
+    <color name="frame_selection_color">#ff24afc2</color>
+    <color name="frame_bg_color">#ffeeeeee</color>
+</resources>

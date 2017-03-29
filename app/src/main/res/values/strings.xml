@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SecurityEditTextDemo</string>
+
+    <string name="frame_edittext_digits">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+</resources>

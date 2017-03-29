@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- added for frame edit text -->
+    <declare-styleable name="frame_edit_text">
+        <!-- FrameEdittext总共的长度 -->
+        <attr name="totalLength" format="integer"/>
+    </declare-styleable>
+
+</resources>
